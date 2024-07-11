@@ -1,0 +1,1 @@
+SELECT * FROM sbya.schlstudents cross join cities;
