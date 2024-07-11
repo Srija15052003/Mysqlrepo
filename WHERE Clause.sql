@@ -1,0 +1,1 @@
+SELECT id, name, gender FROM users WHERE gender="F";
